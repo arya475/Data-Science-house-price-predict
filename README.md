@@ -15,3 +15,11 @@ Dataset Perumahan Ames disusun oleh Dean De Cock untuk digunakan dalam pendidika
 ### Model Estimator
 
 Untuk memulai tantangan ini saya akan menggunakan model estimator pada Scikit-Learn, yaitu _Hist Gradient Boosting Regressor_
+
+### Masalah yang coba dipecahkan
+
+Model Prediksi harga rumah berdasarkan fitur yang ditentukan
+
+### Kendala
+
+Karena masih dalam tahap awal, saya hanya menggunakan scikit learn untuk melatih model dengan fitur yang bertipe data int dan float saja, sedangkan fitur dengan tipe data object masih disisihkan.
